@@ -1,12 +1,6 @@
 # hiii
 ###### small heading
 
-` public static void main '
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
+- [X] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
