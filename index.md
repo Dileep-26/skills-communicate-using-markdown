@@ -1,6 +1,12 @@
 # hiii
 ###### small heading
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+` public static void main '
 
-![cat](https://www.freepnglogos.com/uploads/cat-png/cat-sitting-boarding-daycare-15.png)
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
